@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://ersatz.systems/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/categories/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/categories/hello-world/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/some-article/</loc>
+        <lastmod>2017-09-24</lastmod>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/some-other-article/</loc>
+        <lastmod>2017-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/other/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/ssg/</loc>
+    </url>
+</urlset>
