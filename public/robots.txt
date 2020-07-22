@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ersatz.systems/sitemap.xml

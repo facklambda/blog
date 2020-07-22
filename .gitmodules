@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/facklambda/facklambda.github.io.git
+	branch = master
