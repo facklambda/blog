@@ -5,5 +5,5 @@
 
 [submodule "after-dark"]
 	path = themes/after-dark
-	url = https://github.com/getzola/after-dark.git
+	url = https://github.com/facklambda/after-dark.git
 	branch = master
