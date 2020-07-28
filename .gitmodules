@@ -2,3 +2,8 @@
 	path = public
 	url = https://github.com/facklambda/facklambda.github.io.git
 	branch = master
+
+[submodule "after-dark"]
+	path = themes/after-dark
+	url = https://github.com/getzola/after-dark.git
+	branch = master
