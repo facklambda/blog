@@ -10,6 +10,9 @@
         <loc>https://ersatz.systems/categories/meta/</loc>
     </url>
     <url>
+        <loc>https://ersatz.systems/categories/todo/</loc>
+    </url>
+    <url>
         <loc>https://ersatz.systems/one/</loc>
         <lastmod>2020-08-02</lastmod>
     </url>
@@ -21,5 +24,18 @@
     </url>
     <url>
         <loc>https://ersatz.systems/tags/meta/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/priority/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/projects/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/tags/todo/</loc>
+    </url>
+    <url>
+        <loc>https://ersatz.systems/two/</loc>
+        <lastmod>2020-08-02</lastmod>
     </url>
 </urlset>
