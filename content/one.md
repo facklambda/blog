@@ -20,6 +20,6 @@ Stay tuned for more.
 
 ---
 
-greetz to v, kurt, jo, j3s, vvesley, nyx, junk, nildicit, kaworu, shoggoth, starless, cass, forest, aimless, mc_crash, skh, twitter mufos, and the cyberia.club crew
+greetz to v, kurt, jo, j3s, vvesley, nyx, junk, nildicit, kaworu, shoggoth, starless, cass, forest, aimless, mc_crash, skh, twitter mufos, and the [cyberia.club](https://cyberia.club) crew
 
 fuckingz to anyone that refuses to wear a mask
