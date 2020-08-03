@@ -10,9 +10,18 @@
         <loc>https://ersatz.systems/categories/meta/</loc>
     </url>
     <url>
+<<<<<<< HEAD
         <loc>https://ersatz.systems/categories/todo/</loc>
     </url>
     <url>
+=======
+<<<<<<< HEAD
+        <loc>https://ersatz.systems/categories/todo/</loc>
+    </url>
+    <url>
+=======
+>>>>>>> 5be0a3fef058dd3d64d85397e8b340b3f3bc3e78
+>>>>>>> 0d97d0ad28a53f0b31c7bcade38d810fe01aafff
         <loc>https://ersatz.systems/one/</loc>
         <lastmod>2020-08-02</lastmod>
     </url>
