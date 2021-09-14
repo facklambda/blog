@@ -56,56 +56,72 @@ I'm sure I'll revisit this, but maybe when I'm more apt to donate a grand worth 
 
 - general programming stuff lol
     - rust is really fun so far I've written a tiny bit
+
 Done quite a lot here.
     - something on cloudflare workers would be fun to build
         - i don't like maintaining servers
+
 MY FRIEND RECOMMENDED ME FOR A JOB WHERE I DO THIS FOR A LIVING LOL (lambda)
     - a towerdefense game
+
 still haven't done this, still want to do this
     - embedded stuff for a bunch of the above projects
+
 been playing with an esp32-c3 and making leds blink so hell yeah i've made progress here
     - a mobile app that does something fun idk what yet
+
 made a proof of concept app using flutter that gamified not charging your phone. :shrug: it was for ludum dare
     - some embedded firmware stuff for open-source bootloaders, on either androi$
+
 nothing to show for this
     - demoscene stuff, just absolutely gives me goosebumps every time i interact$
         - there was a project that enabled opensource controll of my RGB keyboar$
         - same with android bootloader animations
         - apparently bootloader animations across any opensource stuff (coreboot$
+
 basically got drunk with roomates and just taught them about demoscene culture lmao       
     - plugin for zola (the static site generator that makes this site) to enable$
+
 	highkey fell off of this
 - building a new pc
+
 NOPE LOL, CHIP SHORTAGES, CRYPTOCURRENCY FUELED SCALPERS. ARM SoCs are the future anyways. replace your desktop with a server somewhere it'll get better connectivity and carbon neutral power
 - streaming stuff on twitch
+
 Done. check me out at twitch.tv/facklambda
-
 - working with my friends on cyberia.club significanly more
-Oops, I've kinda avoided/fallen out of touch with cyberia. They recently got a physical space that I will try to show up to more often.
 
+Oops, I've kinda avoided/fallen out of touch with cyberia. They recently got a physical space that I will try to show up to more often.
 - reading more, i'm a news junkie, but i'd like to read more *shudder* Theory wi$
+
 Did an alright job of this, finished the Three-Body Problem, started reading #Accelerate: The Accelerationist Reader
 
 - blogging, dumping some thoughts into a journal anyone can read
+
 lol, evidently not
 
 - general cypherpunkery
+
 idk, got an assload of friends to join Signal during the Minneapolis uprisings
 
 - getting certified to use the machine shop at the Hack Factory
-*Engineer voice* "NOPE"
+
+*tf2 engineer voice* "NOPE"
 
 - 3d printing (car accessories mostly)
+
 There's still some interest here, but damn it's one of those things where I ask myself: "does the world really need more random plastic junk?"
 
 - netsec
     - websec seems to be my primary talent area, since i work with webapps all d$
     - appsec interests me a lot as well since that typically is the venue for re$
+
 now, websec is a talent area, but I'm truly more fascinated by the fields of Trusted Computing, systems level isolation, hypervisors and stuff like homomorphic encryption. So not much progress on this front.
 
 If any of this stuff also sounds interesting to you, or you wanna talk about it,$
 
 
+---
 I'd like to thank my friend j3s for listening to me breathlessly talk about certain tech stacks and connecting the dots from there to an awesome job opportunity that I've since taken. My life has improved in ways you cannot imagine, thanks friend.
 
 greetz to v, wendy, jo, jamin, j3s, vvesley, johnnie, nyx, junk, nildicit, kaworu, shoggoth, starless, elisha, cass, forest, lief, aimless, mc_crash, skh, kurt, justin, taylor, jackson, pearl
