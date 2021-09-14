@@ -108,6 +108,8 @@ If any of this stuff also sounds interesting to you, or you wanna talk about it,
 
 I'd like to thank my friend j3s for listening to me breathlessly talk about certain tech stacks and connecting the dots from there to an awesome job opportunity that I've since taken. My life has improved in ways you cannot imagine, thanks friend.
 
-Since the last update, a considerable amount of progress has been made in learning Rust, a lovely programming language that lets me scratch all my scatterbrained itches, from serverless runtimes, to systems level stuff, to embedded.
+greetz to v, wendy, jo, jamin, j3s, vvesley, johnnie, nyx, junk, nildicit, kaworu, shoggoth, starless, elisha, cass, forest, lief, aimless, mc_crash, skh, kurt, justin, taylor, jackson, pearl
+
+fuckingz to all my former landlords, cryptocurrency miners using fossil fuels, hoarders, even more unfinished projects, and the entire concept of procrastination.
 
 
