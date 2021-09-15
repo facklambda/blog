@@ -1,7 +1,7 @@
 
 +++
 title = "git gud"
-date = 2020-08-02
+date = 2021-09-14
 
 [taxonomies]
 tags = ["todo", "projects", "priority"]
