@@ -12,7 +12,6 @@ date = 2021-09-14
 
 # The last updated date of the post, if different from the date.
 # Same format as `date`.
-updated =
 
 # The weight as defined on the Section page of the documentation.
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
@@ -24,7 +23,6 @@ draft = true
 
 # If set, this slug will be used instead of the filename to make the URL.
 # The section path will still be used.
-slug = ""
 
 # The path the content will appear at.
 # If set, it cannot be an empty string and will override both `slug` and the filename.
@@ -34,7 +32,6 @@ path = "beerlict"
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of paths, not URLs.
-aliases = []
 
 # When set to "true", the page will be in the search index. This is only used if
 # `build_search_index` is set to "true" in the Zola configuration and the parent section
@@ -48,6 +45,7 @@ template = "page.html"
 # names configured in `config.toml` and the values are an array of String objects. For example,
 # tags = ["rust", "web"].
 [taxonomies]
+tags = ["rust", "iot", "art"]
 
 # Your own data.
 [extra]
@@ -56,6 +54,7 @@ template = "page.html"
 I've started on a fun little art project based losely off of [noisebridge's Flaschen Taschen](https://www.noisebridge.net/wiki/Flaschen_Taschen) and [c-base's Mate-Light](https://matelight.rocks).
 
 My twist on the project is that it will be an ambient light that reacts to traffic on the local network (and maybe even the wide area network).
+<!-- more -->
 
 Parts list so far:
 - ESP32-C3
