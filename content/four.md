@@ -1,3 +1,4 @@
++++
 title = "beerlicht"
 description = "will-o'-the-WISP"
 
@@ -50,6 +51,7 @@ template = "page.html"
 
 # Your own data.
 [extra]
++++
 
 I've started on a fun little art project based losely off of [noisebridge's Flaschen Taschen](https://www.noisebridge.net/wiki/Flaschen_Taschen) and [c-base's Mate-Light](https://matelight.rocks).
 
@@ -62,4 +64,4 @@ Parts list so far:
 - a milk crate
 - 3 dupont wires
 
-
+---
