@@ -57,7 +57,7 @@ Rather than being a bit over-ambitious, which is learning rust without much foun
 <!-- more -->
 
 Parts list so far:
-- ~ESP32-C3~
+- ~~ESP32-C3~~
 - Raspberry Pi 2b+ (running raspbian)
 - string of 25 WS2812b LEDs
 - 25 glass bottles
