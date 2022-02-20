@@ -69,9 +69,9 @@ Parts list so far:
 After spending a few months hoarding glass beverage bottles, I finally amassed the proper amount of correctly sized bottles to fit a 5 by 5 grid in the milk crate. Cutting the daisychained strip of 50 WS2812b LEDs in half and placing one of each of the 25 LEDs into the mouth of each bottle was very simple. Hooking them up to the raspberry pi also proved to be simple, just direct connect the corresponding wires to a 5v pin, a SPI GPIO pin, and a ground pin.
 
 # The Code:
-I'm pretty new to writing rust code, and embedded electronics, but I have a basic knowledge of most concepts involved. I again had to recalibrate my expectations for this project. There's no way I'm going to get up and running very quickly if I try to code this all myself, so I'm leaning heavily on (Philipp Schuster's very simple ws281x led driver rust code)[https://github.com/phip1611/ws2818-rgb-led-spi-driver]. This got me up and running with a nice set of examples and demo code that I could rely on for a quick dopamine rush (I particularly like the way the (pulsating square demo)[https://github.com/phip1611/ws2818-rgb-led-spi-driver/blob/main/examples/src/bin/nxn-pulsating-square.rs] looks).
+I'm pretty new to writing rust code, and embedded electronics, but I have a basic knowledge of most concepts involved. I again had to recalibrate my expectations for this project. There's no way I'm going to get up and running very quickly if I try to code this all myself, so I'm leaning heavily on [Philipp Schuster's very simple ws281x led driver rust code](https://github.com/phip1611/ws2818-rgb-led-spi-driver). This got me up and running with a nice set of examples and demo code that I could rely on for a quick dopamine rush (I particularly like the way the [pulsating square demo](https://github.com/phip1611/ws2818-rgb-led-spi-driver/blob/main/examples/src/bin/nxn-pulsating-square.rs) looks).
 
-As of writing this post, beerlicht's published code still just a (repo)[https://github.com/facklambda/beerlicht] containing Philipp's code.
+As of writing this post, beerlicht's published code still just a [repo](https://github.com/facklambda/beerlicht) containing Philipp's code.
 
 Next steps for this project will be writing the networking code and the logic that lights each light up based on network activity.
 
