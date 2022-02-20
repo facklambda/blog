@@ -8,7 +8,7 @@ description = "the electric boogaloo"
 # If the section variable `sort_by` is set to `date`, then any page that lacks a `date`
 # will not be rendered.
 # Setting this overrides a date set in the filename.
-date = 2021-09-14
+date = 2022-02-19
 
 # The last updated date of the post, if different from the date.
 # Same format as `date`.
