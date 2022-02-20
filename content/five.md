@@ -46,6 +46,8 @@ template = "page.html"
 # tags = ["rust", "web"].
 [taxonomies]
 tags = ["rust", "iot", "art", "ws281x", "leds"]
+categories = ["projects"]
+
 
 # Your own data.
 [extra]
