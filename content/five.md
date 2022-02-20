@@ -1,6 +1,6 @@
 +++
-title = "beerlicht"
-description = "will-o'-the-WISP"
+title = "beerlicht pt 2"
+description = "the electric boogaloo"
 
 # The date of the post.
 # Two formats are allowed: YYYY-MM-DD (2012-10-02) and RFC3339 (2002-10-02T15:00:00Z).
@@ -28,7 +28,7 @@ draft = false
 # If set, it cannot be an empty string and will override both `slug` and the filename.
 # The sections' path won't be used.
 # It should not start with a `/` and the slash will be removed if it does.
-path = "beerlict-pt-1"
+path = "beerlict-pt-2"
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of paths, not URLs.
@@ -51,18 +51,29 @@ tags = ["rust", "iot", "art", "ws281x", "leds"]
 [extra]
 +++
 
-I've started on a fun little art project based losely off of [noisebridge's Flaschen Taschen](https://www.noisebridge.net/wiki/Flaschen_Taschen) and [c-base's Mate-Light](https://matelight.rocks).
+I've made leaps and bounds of progress on this project once I decided to start a bit smaller!
 
-My twist on the project is that it will be an ambient light that reacts to traffic on the local network (and maybe even the wide area network).
+Rather than being a bit over-ambitious, which is learning rust without much foundation on a relatively new embedded system (ESP32-C3) with relatively little documentation (it's vastly improved since my last blog post). I readjusted my ambitions and settled on a more realistic goal of getting it all to run on a raspberry pi.
 <!-- more -->
 
 Parts list so far:
-- ESP32-C3
+- ~ESP32-C3~
+- Raspberry Pi 2b+ (running raspbian)
 - string of 25 WS2812b LEDs
 - 25 glass bottles
 - a milk crate
 - 3 dupont wires
 
 ---
+
+After spending a few months hoarding glass beverage bottles, I finally amassed the proper amount of correctly sized bottles to fit a 5 by 5 grid in the milk crate. Cutting the daisychained strip of 50 WS2812b LEDs in half and placing one of each of the 25 LEDs into the mouth of each bottle was very simple. Hooking them up to the raspberry pi also proved to be simple, just direct connect the corresponding wires to a 5v pin, a SPI GPIO pin, and a ground pin.
+
+# The Code:
+I'm pretty new to writing rust code, and embedded electronics, but I have a basic knowledge of most concepts involved. I again had to recalibrate my expectations for this project. There's no way I'm going to get up and running very quickly if I try to code this all myself, so I'm leaning heavily on (Philipp Schuster's very simple ws281x led driver rust code)[https://github.com/phip1611/ws2818-rgb-led-spi-driver]. This got me up and running with a nice set of examples and demo code that I could rely on for a quick dopamine rush (I particularly like the way the (pulsating square demo)[https://github.com/phip1611/ws2818-rgb-led-spi-driver/blob/main/examples/src/bin/nxn-pulsating-square.rs] looks).
+
+As of writing this post, beerlicht's published code still just a (repo)[https://github.com/facklambda/beerlicht] containing Philipp's code.
+
+Next steps for this project will be writing the networking code and the logic that lights each light up based on network activity.
+
 
 greetz to Philipp, V, and all my friends who've been subjected to me showing this off.
