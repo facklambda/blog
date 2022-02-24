@@ -16,7 +16,7 @@ date = 2022-02-20
 # The weight as defined on the Section page of the documentation.
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
 # will not be rendered.
-weight = 0
+# weight = 0
 
 # A draft page is only loaded if the `--drafts` flag is passed to `zola build`, `zola serve` or `zola check`.
 draft = false
@@ -28,7 +28,7 @@ draft = false
 # If set, it cannot be an empty string and will override both `slug` and the filename.
 # The sections' path won't be used.
 # It should not start with a `/` and the slash will be removed if it does.
-path = "bust-pt-1"
+# path = "bust-pt-1"
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of paths, not URLs.
@@ -39,7 +39,7 @@ path = "bust-pt-1"
 in_search_index = true
 
 # Template to use to render this page.
-template = "page.html"
+# template = "page.html"
 
 # The taxonomies for this page. The keys need to be the same as the taxonomy
 # names configured in `config.toml` and the values are an array of String objects. For example,
@@ -48,9 +48,6 @@ template = "page.html"
 tags = ["rust", "cli", "gtfs", "bus", "transit"]
 categories = ["projects"]
 
-
-# Your own data.
-[extra]
 +++
 
 I've recently been working on a fun project that should be a useful general-utility CLI app that can parse [GTFS](https://gtfs.org/) data for arbitrary transit providers (so long as they publish GTFS data!). I would like to roll this project into a bigger one for displaying timestables on an actual display.

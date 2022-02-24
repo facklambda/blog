@@ -16,7 +16,7 @@ date = 2022-02-19
 # The weight as defined on the Section page of the documentation.
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
 # will not be rendered.
-weight = 0
+# weight = 0
 
 # A draft page is only loaded if the `--drafts` flag is passed to `zola build`, `zola serve` or `zola check`.
 draft = false
@@ -28,7 +28,7 @@ draft = false
 # If set, it cannot be an empty string and will override both `slug` and the filename.
 # The sections' path won't be used.
 # It should not start with a `/` and the slash will be removed if it does.
-path = "beerlict-pt-2"
+# path = "beerlict-pt-2"
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of paths, not URLs.
@@ -39,7 +39,7 @@ path = "beerlict-pt-2"
 in_search_index = true
 
 # Template to use to render this page.
-template = "page.html"
+# template = "page.html"
 
 # The taxonomies for this page. The keys need to be the same as the taxonomy
 # names configured in `config.toml` and the values are an array of String objects. For example,
@@ -49,8 +49,6 @@ tags = ["rust", "iot", "art", "ws281x", "leds"]
 categories = ["projects"]
 
 
-# Your own data.
-[extra]
 +++
 
 I've made leaps and bounds of progress on this project once I decided to start a bit smaller!

@@ -16,7 +16,7 @@ date = 2022-02-23
 # The weight as defined on the Section page of the documentation.
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
 # will not be rendered.
-weight = 0
+# weight = 0
 
 # A draft page is only loaded if the `--drafts` flag is passed to `zola build`, `zola serve` or `zola check`.
 draft = false
@@ -39,7 +39,7 @@ draft = false
 in_search_index = true
 
 # Template to use to render this page.
-template = "page.html"
+# template = "page.html"
 
 # The taxonomies for this page. The keys need to be the same as the taxonomy
 # names configured in `config.toml` and the values are an array of String objects. For example,
@@ -48,9 +48,6 @@ template = "page.html"
 tags = ["pandemic", "life", "meta", "friends"]
 categories = ["meta"]
 
-
-# Your own data.
-[extra]
 +++
 
 I rewatched *Dr. Strangelove: Or How I Stopped Worrying and Learned to Love the Bomb* along with my partner and a close friend, neither of which had seen the movie before. The movie satirizes the bureaucratic, process oriented mindset of cold war era politicians and military men, and remains both prescient and relevant to this day. There's a scene in the movie where the great men are panicking over a percieved "mineshaft gap". Many actions in the cold war were driven by the paranoid minds in charge of the military-industrial-inferiority complex. Every percieved advantage the other side had was deemed a "gap", in the movie we watch them decry the "missile gap", the "doomsday machine gap", and finally the "mineshaft gap".
