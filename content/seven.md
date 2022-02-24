@@ -1,5 +1,5 @@
 +++
-title = "Mineshaft Gap"
+title = "mineshaft gap"
 description = "covid precautions in the war room"
 
 # The date of the post.
